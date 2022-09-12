@@ -1,8 +1,7 @@
 package com.groke.storeapp.view
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.fragment.app.FragmentManager
+import androidx.appcompat.app.AppCompatActivity
 import com.groke.storeapp.R
 import com.groke.storeapp.databinding.ActivityMainBinding
 
